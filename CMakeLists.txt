@@ -53,6 +53,7 @@ Source/Synthesis/oscillator.cpp
 Source/Synthesis/oscillatorbank.cpp
 Source/Synthesis/variablesawosc.cpp
 Source/Synthesis/variableshapeosc.cpp
+Source/Synthesis/wavetableosc.cpp
 Source/Synthesis/vosim.cpp
 Source/Synthesis/zoscillator.cpp
 Source/Utility/dcblock.cpp
